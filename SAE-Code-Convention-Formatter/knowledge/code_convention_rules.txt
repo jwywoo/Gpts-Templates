@@ -1,0 +1,5 @@
+1. Adding Final Rule: Add final for all the variables, parameters, and arguments unless it's syntax violation
+2. No Primitive Rule: Don't use primitive types for all the data types unless it's syntax violation.
+3. Comment Rule: Comments should provide details but got to be compact.
+4. No Setter Rule: No @Setter for any case.
+5. Object Oriented Rule: Make sure an object to handle it's related task.
